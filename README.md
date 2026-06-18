@@ -1,36 +1,28 @@
-# Front End
+# Frontend Practice
 
-Frontend development practice with HTML, CSS, and JavaScript.
+HTML, CSS, and JavaScript practice organized by frontend topic.
 
-## Overview
+## Purpose
 
-This is a Learning and prototype repository. It is part of my broader GitHub portfolio showing hands-on work across AI, web development, automation, and software engineering fundamentals.
+This repository is for building visual and interaction fundamentals without hiding behind a framework. It shows repeated practice with page structure, styling, and browser-side behavior.
 
-## What It Demonstrates
+## What This Shows
 
-- Practical implementation and experimentation rather than only theory.
-- Familiarity with the repository's core stack and development workflow.
-- Iterative learning through small projects, exercises, or prototypes.
+- HTML structure
+- CSS layout/styling
+- JavaScript interaction basics
 
-## Tech Stack
+## Stack
 
-- Primary language: HTML
-- Topics: css, html, javascript
-
-## Repository Structure
-
-- Top-level folders: css, html, js
-- Top-level files: .gitignore, README.md
-
-## Status
-
-This is a learning/prototype repository kept public to show practice, experimentation, and growth.
+- HTML
+- CSS
+- JavaScript
 
 ## Next Improvements
 
-- Add screenshots, sample outputs, or a short demo where relevant.
-- Expand setup instructions for local development.
-- Document the main learning outcome, architecture, and edge cases.
+- Add screenshots of finished exercises
+- Create a table of projects
+- Mark the most polished examples
 
 ## Author
 
